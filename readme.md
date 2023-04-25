@@ -1,3 +1,4 @@
 # Profiles REST API
 
-Profiles REST API course code.
+Profiles REST API code.
+Need ModHeader for token authentication testing.
